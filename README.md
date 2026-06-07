@@ -72,4 +72,4 @@ This dashboard helps businesses monitor performance, identify trends, and make d
 ---
 
 ## Author
-Your Name
+Krish Chourasia
