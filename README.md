@@ -61,11 +61,6 @@ The dataset contains sales-related information such as:
 
 ---
 
-## Screenshots
-(Add dashboard screenshots here)
-
----
-
 ## Conclusion
 This dashboard helps businesses monitor performance, identify trends, and make data-driven decisions effectively using interactive visual analytics.
 
